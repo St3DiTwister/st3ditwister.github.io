@@ -1,0 +1,63 @@
+@media only screen and (max-width: 400px) {
+    img {
+        width: 100%;
+    }
+    .header {
+        max-width: 100%;
+    }
+    .menu a {
+        width: 100%;
+        text-align: center;
+        margin: 0;
+        font-size: 20px;
+    }
+    h1 {
+        font-size: 40px;
+        text-align: center;
+    }
+    h2 {
+        font-size: 10px;
+        text-align: center;
+    }
+    p {
+        font-size: 10px;
+        text-align: center;
+    }
+    button {
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+    }
+    .about-text {
+        margin-top: 50px;
+        text-align: center;
+    }
+    .company {
+        text-align: center;
+    }
+    .company-wrap p {
+        margin-bottom: 30px;
+    }
+    .company-block-1 {
+        margin-bottom: 40px;
+    }
+    .send-text {
+        text-align: center;
+        margin-right: 0;
+
+    }
+    input {
+        margin-right: 0;
+    }
+    form {
+        text-align: center;
+    }
+    form button {
+        margin-top: 30px;
+    }
+    .footer-menu a {
+        margin-right: 0;
+        font-size: 15px;
+        flex-wrap: wrap;
+    }
+}
